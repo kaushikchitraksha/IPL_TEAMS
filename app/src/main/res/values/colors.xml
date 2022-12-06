@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+   <!-- Main Background color for app -->
+    <color name="BackgroundColorPrime">#19388a</color>
+    <color name="BackgroundColorSec">#4f91cd</color>
+    <!-- Team Raj -->
+    <color name="Raj">#AA336A</color>
+    <color name="Raj2">#FF00FF</color>
+    <!-- Team CSK -->
+    <color name="CSK">#fcce06</color>
+    <!-- Team RCB -->
+    <color name="RCB1">#d5152c</color>
+    <color name="RCB2">#0B0A2B</color>
+    <!-- Team SRH -->
+    <color name="SRH">#f7a721</color>
+    <!-- Team PSBK -->
+    <color name="PSBK">#ed1f27</color>
+    <!-- Team KKR -->
+    <color name="KKR">#3a225d</color>
+
+
+</resources>
